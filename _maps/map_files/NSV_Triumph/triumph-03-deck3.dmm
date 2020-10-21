@@ -2135,7 +2135,9 @@
 	name = "NSV Triumph - Escapepod 1"
 	},
 /turf/simulated/shuttle/plating/airless/carry,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "ez" = (
 /obj/effect/floor_decal/techfloor{
 	dir = 9
@@ -2789,7 +2791,9 @@
 "fS" = (
 /obj/structure/bed/roller,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "fT" = (
 /obj/effect/floor_decal/corner/paleblue{
 	dir = 6
@@ -5592,7 +5596,9 @@
 	req_one_access = list(5)
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "lD" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 6
@@ -6945,7 +6951,9 @@
 	pixel_y = 32
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "ok" = (
 /obj/machinery/power/apc{
 	name = "south bump";
@@ -8439,7 +8447,9 @@
 /area/medical/virology)
 "rp" = (
 /turf/simulated/shuttle/wall/hard_corner,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "rq" = (
 /obj/effect/floor_decal/techfloor/corner{
 	dir = 1
@@ -8895,7 +8905,9 @@
 	dir = 8
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "ss" = (
 /obj/structure/lattice,
 /turf/space,
@@ -9177,7 +9189,9 @@
 	layer = 3.3
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "sQ" = (
 /obj/machinery/r_n_d/circuit_imprinter,
 /obj/item/reagent_containers/glass/beaker/sulphuric,
@@ -9361,7 +9375,9 @@
 	dir = 8
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "th" = (
 /obj/structure/closet/crate/bin{
 	anchored = 1
@@ -9510,7 +9526,9 @@
 /obj/structure/shuttle/window,
 /obj/structure/grille,
 /turf/simulated/shuttle/plating,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "tz" = (
 /obj/machinery/light{
 	dir = 8
@@ -9549,7 +9567,9 @@
 	dir = 4
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "tD" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -10288,7 +10308,9 @@
 	dir = 8
 	},
 /turf/simulated/shuttle/plating/airless/carry,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "va" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -11658,7 +11680,9 @@
 	dir = 4
 	},
 /turf/simulated/floor/airless,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "xN" = (
 /obj/machinery/light{
 	dir = 4
@@ -11905,7 +11929,9 @@
 "yi" = (
 /obj/structure/bed/chair,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "yj" = (
 /obj/machinery/camera/network/civilian{
 	dir = 8
@@ -16047,7 +16073,9 @@
 	dir = 4
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "Gm" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 9
@@ -16664,7 +16692,9 @@
 	},
 /obj/machinery/portable_atmospherics/canister/oxygen/prechilled,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "Hx" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -18113,7 +18143,9 @@
 /area/triumph/station/stairs_three)
 "KA" = (
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "KB" = (
 /obj/machinery/atmospherics/unary/freezer{
 	icon_state = "freezer"
@@ -19737,7 +19769,9 @@
 /obj/random/medical/lite,
 /obj/random/medical/lite,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "NL" = (
 /obj/machinery/bodyscanner{
 	dir = 8
@@ -19762,7 +19796,9 @@
 	name = "Emergency Airlock"
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "NO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/black{
 	dir = 4
@@ -20120,7 +20156,9 @@
 	dir = 1
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "Oy" = (
 /obj/machinery/clonepod/transhuman,
 /obj/effect/floor_decal/borderfloorwhite{
@@ -20233,7 +20271,9 @@
 "OL" = (
 /obj/machinery/sleep_console,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "OM" = (
 /obj/structure/closet/crate/medical,
 /obj/item/storage/firstaid/regular{
@@ -20280,7 +20320,9 @@
 	},
 /obj/item/defib_kit/loaded,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "ON" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -20414,7 +20456,9 @@
 	},
 /obj/machinery/light,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "Pd" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	dir = 4
@@ -21332,7 +21376,9 @@
 	dir = 1
 	},
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "QT" = (
 /turf/simulated/wall,
 /area/maintenance/research)
@@ -23705,7 +23751,9 @@
 	},
 /obj/structure/bed/roller,
 /turf/simulated/shuttle/floor,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "VC" = (
 /obj/structure/table/glass,
 /obj/machinery/power/apc{
@@ -24093,7 +24141,9 @@
 /area/triumph/station/stairs_three)
 "Wp" = (
 /turf/simulated/shuttle/wall,
-/area/shuttle/large_escape_pod1)
+/area/shuttle/large_escape_pod1/station{
+	base_turf = /turf/simulated/mineral/floor/vacuum
+	})
 "Wq" = (
 /obj/structure/sign/greencross,
 /turf/simulated/wall/r_wall,
